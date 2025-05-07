@@ -2,6 +2,8 @@
 
 This project is a simple AI-based tool built with Python and Streamlit that analyzes a resume and compares it with a job description to give a match score.
 
+can check out the project here - https://airesumeanalyzer-vd80.onrender.com/
+
 ## 🚀 Features
 - NLP-based keyword matching
 - Resume vs Job Description similarity scoring
